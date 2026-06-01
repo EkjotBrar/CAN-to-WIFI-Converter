@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5e0a761a-a6f4-463a-96d8-e716b4d6ff1b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 119.38 45.72)
+		(size 35.56 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "622a835e-dae5-4580-aa4c-9d5708022ab0")
+		(property "Sheetname" "Power/CAN"
+			(at 119.38 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 119.38 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CAN to WIFI"
+				(path "/5e0a761a-a6f4-463a-96d8-e716b4d6ff1b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 48.26)
+		(size 35.56 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b46c5455-ef9d-4f02-82f0-e11cfe73b7dc")
+		(property "Sheetname" "Debugger/OBD"
+			(at 175.26 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debugger.kicad_sch"
+			(at 175.26 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CAN to WIFI"
+				(path "/5e0a761a-a6f4-463a-96d8-e716b4d6ff1b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 44.45)
+		(size 27.94 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ebb29bd2-1a0a-4f2b-b0a1-95b6927cd5d5")
+		(property "Sheetname" "MCU"
+			(at 64.77 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 64.77 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CAN to WIFI"
+				(path "/5e0a761a-a6f4-463a-96d8-e716b4d6ff1b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
