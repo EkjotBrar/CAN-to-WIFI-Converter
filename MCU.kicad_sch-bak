@@ -1970,16 +1970,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 99.06) (xy 234.95 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "020ec052-035a-4431-a552-ebf8507b66a3")
-	)
-	(wire
-		(pts
 			(xy 77.47 138.43) (xy 87.63 138.43)
 		)
 		(stroke
@@ -2670,16 +2660,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 93.98) (xy 236.22 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9ef5869-0360-4b6d-94b2-e1025ad369ab")
-	)
-	(wire
-		(pts
 			(xy 220.98 58.42) (xy 213.36 58.42)
 		)
 		(stroke
@@ -2787,16 +2767,6 @@
 			(type default)
 		)
 		(uuid "f75dfdd4-e2bb-48ab-9eba-08368222d598")
-	)
-	(wire
-		(pts
-			(xy 234.95 99.06) (xy 234.95 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7950250-91f1-43d8-8061-e0e8f75b8823")
 	)
 	(wire
 		(pts
@@ -3015,28 +2985,6 @@
 		(uuid "1a943e55-2a5c-4035-9a72-fdb0f6ed18ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 190.8847 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ESP_3V3"
-		(shape input)
-		(at 236.22 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3d09d486-40de-4bf4-ac03-4248d2c9b845")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.3089 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
